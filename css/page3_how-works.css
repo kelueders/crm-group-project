@@ -3,3 +3,13 @@
     border-width: 1px;
 }
 
+.btn-outline-success {
+    border-color: blue;
+    color: blue;
+    margin: 1em;
+}
+
+.try-it {
+    color: white;
+}
+
