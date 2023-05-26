@@ -9,3 +9,23 @@
 body,input{
     font-family: 'Roboto', sans-serif;
 }
+.container{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.container:before{
+    content: '';
+    position: absolute;
+    width: 800px;
+    height: 1500px;
+    border-radius: 50%;
+    background: linear-gradient(-45deg, #001236, #090c11);
+    top: 0;
+    right: 52%;
+    transform: translateY(-55%);
+    z-index: 6;
+}
