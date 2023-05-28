@@ -36,3 +36,16 @@
     border-bottom-left-radius: 1em;
 }
 
+.foot {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 4em;
+}
+
+footer li {
+    display: inline;
+    margin: 1em;
+}
+
