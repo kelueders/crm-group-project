@@ -44,8 +44,24 @@
     padding-bottom: 4em;
 }
 
-footer li {
+footer li, header li {
     display: inline;
-    margin: 1em;
+    margin: .4em;
+}
+
+.free {
+    font-size: 0.7em
+}
+
+.get-started li {
+    padding: 1em;
+}
+
+.btn-get-started {
+    background-color: rgb(99, 160, 8);
+}
+
+.chat-bubble {
+    height: 20px;
 }
 
