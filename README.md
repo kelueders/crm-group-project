@@ -1,12 +1,10 @@
 # crm-group-project
 CRM Group Project
 
-Page 1: Rana
+Page 1 Sign-Up: Rana
 
-Page 2: Ewa
+Page 2 Sign-In: Ewa
 
-Page 3: Kate
+Page 3 How It Works: Kate
 
-Page 4: Ewa and Kate
-
-Kate Lueders - Worked on header and footer for "How It Works" and "Landing" pages, and main section for "How It Works" page
+Page 4 Landing Page: Ewa (worked on main section) and Kate (worked on header and footer)
