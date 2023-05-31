@@ -7,4 +7,4 @@ Page 2 Sign-In: Ewa
 
 Page 3 How It Works: Kate
 
-Page 4 Landing Page: Ewa (worked on main section) and Kate (worked on header and footer)
+Page 4 Landing Page: Ewa and Kate
